@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>Jam</title>
+</head>
+<body bgcolor="#FFFAFA">
+
+<table border="1"
+align="center" cellspacing="0" cellpadding="10">
+<caption><h3>Квартальный отчет по продаже варенья</h3></caption>
+<tr>
+<td bgcolor="#FFEFD5">Квартал</td>
+<td colspan="3" align="center" tg bgcolor="#FFC0CB">Январь-Март</td>
+<td colspan="3" align="center" tg bgcolor="#FFC0CB">Апрель-Июнь</td>
+<td colspan="3" align="center" tg bgcolor="#FFC0CB">Июль-Сентябрь</td>
+<td colspan="3" align="center" tg bgcolor="#FFC0CB">Октябрь-Декабрь</td>
+</tr>
+
+<tr>
+<td bgcolor="#FFE4B5">Варенье</td>
+<td bgcolor="#DDA0DD">Ягодное</td><td bgcolor="#F08080">Клубничное</td><td bgcolor="#FF7F50">Малиновое</td><td bgcolor="#DDA0DD">Ягодное</td><td bgcolor="#F08080">Клубничное</td><td bgcolor="#FF7F50">Малиновое</td><td bgcolor="#DDA0DD">Ягодное</td><td bgcolor="#F08080">Клубничное</td><td bgcolor="#FF7F50">Малиновое</td><td bgcolor="#DDA0DD">Ягодное</td><td bgcolor="#F08080">Клубничное</td><td bgcolor="#FF7F50">Малиновое</td>
+</tr>
+
+<tr>
+<td bgcolor="#E0FFFF">Сумма закупки материалов</td>
+<td bgcolor="#DDA0DD">123365</td><td bgcolor="#F08080">133453</td><td bgcolor="#FF7F50">123234</td><td bgcolor="#DDA0DD">125423</td><td bgcolor="#F08080">123232</td><td bgcolor="#FF7F50">124533</td><td bgcolor="#DDA0DD">132453</td><td bgcolor="#F08080">127634</td><td bgcolor="#FF7F50">126543</td><td bgcolor="#DDA0DD">124565</td><td bgcolor="#F08080">124356</td><td bgcolor="#FF7F50">124932</td>
+</tr>
+
+<tr>
+<td bgcolor="#E0FFFF">Сумма заработной платы на выпуск</td>
+<td bgcolor="#DDA0DD">23543</td><td bgcolor="#F08080">24543</td><td bgcolor="#FF7F50">23435</td><td bgcolor="#DDA0DD">25675</td><td bgcolor="#F08080">27654</td><td bgcolor="#FF7F50">27675</td><td bgcolor="#DDA0DD">27653</td><td bgcolor="#F08080">28655</td><td bgcolor="#FF7F50">27652</td><td bgcolor="#DDA0DD">26553</td><td bgcolor="#F08080">27654</td><td bgcolor="#FF7F50">24653</td>
+</tr>
+
+<tr>
+<td bgcolor="#E0FFFF">Сумма продажи</td>
+<td bgcolor="#DDA0DD">345435</td><td bgcolor="#F08080">376567</td><td bgcolor="#FF7F50">367875</td><td bgcolor="#DDA0DD">378987</td><td bgcolor="#F08080">375467</td><td bgcolor="#FF7F50">365989</td><td bgcolor="#DDA0DD">345278</td><td bgcolor="#F08080">387456</td><td bgcolor="#FF7F50">379633</td><td bgcolor="#DDA0DD">387678</td><td bgcolor="#F08080">356799</td><td bgcolor="#FF7F50">376578</td>
+</tr>
+
+<tr>
+<td bgcolor="#E0FFFF">Сумма прибыли</td>
+<td bgcolor="#DDA0DD">157654</td><td bgcolor="#F08080">145898</td><td bgcolor="#FF7F50">156984</td><td bgcolor="#DDA0DD">176789</td><td bgcolor="#F08080">167854</td><td bgcolor="#FF7F50">145898</td><td bgcolor="#DDA0DD">167455</td><td bgcolor="#F08080">165743</td><td bgcolor="#FF7F50">156733</td><td bgcolor="#DDA0DD">145367</td><td bgcolor="#F08080">167543</td><td bgcolor="#FF7F50">156743</td>
+</tr>
+
+<tr>
+<td bgcolor="#E0FFFF">Процент наценки</td>
+<td bgcolor="#DDA0DD">55</td><td bgcolor="#F08080">58</td><td bgcolor="#FF7F50">61</td><td bgcolor="#DDA0DD">54</td><td bgcolor="#F08080">58</td><td bgcolor="#FF7F50">61</td><td bgcolor="#DDA0DD">52</td><td bgcolor="#F08080">57</td><td bgcolor="#FF7F50">60</td><td bgcolor="#DDA0DD">57</td><td bgcolor="#F08080">59</td><td bgcolor="#FF7F50">54</td>
+</tr>
+</table>
+
+</body>
+</html>
